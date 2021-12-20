@@ -1,4 +1,4 @@
-import "./Choice.module.css";
+import "./Choice.css";
 
 export const Choice = ({ value, choiceIcon, onClick }) => {
   return (
