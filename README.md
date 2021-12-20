@@ -1,2 +1,2 @@
 # Reactjs-projects
-My projects written using react.js
+My projects written using React.js
